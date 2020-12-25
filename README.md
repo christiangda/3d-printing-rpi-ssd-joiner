@@ -17,6 +17,7 @@ Raspberry [Pi Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-mode
 ![](images/prusaslicer-2.png)
 ![](images/prusaslicer-3.png)
 ![](images/prusa-mini-1.png)
+![](images/builded-1.png)
 
 ## License
 
