@@ -1,6 +1,6 @@
 # 3d-printing-rpi-ssd-joiner
 
-Raspberry [Pi Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) SSD Joiner
+Raspberry [Pi Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) SSD Joiner builded using [FreeCAD](https://www.freecadweb.org/)
 
 ## References
 
